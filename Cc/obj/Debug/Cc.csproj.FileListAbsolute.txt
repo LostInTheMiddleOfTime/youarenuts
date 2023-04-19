@@ -1,0 +1,16 @@
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\bin\Debug\Cc.exe.config
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\bin\Debug\Cc.exe
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\bin\Debug\Cc.pdb
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc.csproj.AssemblyReference.cache
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc.csproj.SuggestedBindingRedirects.cache
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\MainWindow.g.cs
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\App.g.cs
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc_MarkupCompile.cache
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc_MarkupCompile.lref
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\MainWindow.baml
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc.g.resources
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc.Properties.Resources.resources
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc.csproj.GenerateResource.cache
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc.csproj.CoreCompileInputs.cache
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc.exe
+C:\Users\anils\Уч\Уч\Университет\Программирование\Инф\G\Cc\Cc\obj\Debug\Cc.pdb
